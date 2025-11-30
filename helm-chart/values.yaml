@@ -1,0 +1,21 @@
+backend:
+  replicaCount: 2
+  image:
+    repository: learner-report-backend
+    tag: latest
+  env:
+    nodeEnv: production
+
+frontend:
+  replicaCount: 2  
+  image:
+    repository: learner-report-frontend
+    tag: latest
+  env:
+    apiUrl: "http://learner-report-app-backend-service"
+
+mongodb:
+  replicaCount: 1
+  image:
+    repository: mongo
+    tag: latest
