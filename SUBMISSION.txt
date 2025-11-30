@@ -1,0 +1,19 @@
+Kubernetes & Helm Assignment Submission
+
+GitHub Repository: https://github.com/nikhilmathur1957/Learner-report-k8s
+
+Application Repositories:
+- Frontend: https://github.com/nikhilmathur1957/learnerReportCS_frontend
+- Backend: https://github.com/nikhilmathur1957/learnerReportCS_backend
+
+Completed All Requirements:
+✅ Kubernetes deployment files for frontend and backend
+✅ Kubernetes service configurations with LoadBalancer
+✅ MongoDB deployment for complete MERN stack
+✅ ConfigMaps for environment configuration
+✅ Complete Helm chart with templates and values.yaml
+✅ Jenkins Groovy pipeline for CI/CD automation
+✅ Comprehensive documentation and README
+
+All code is successfully pushed to the GitHub repository.
+The deployment includes scalability configurations and production-ready setups.
